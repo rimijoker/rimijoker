@@ -9,3 +9,7 @@
 - 💬 Ask me about Machine Learning and Secure & Private AI
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iamanshumansingh/)
 - ⚡ Fun fact: rimi is actually the name of my sister😂
+
+![rimijoker's github stats](https://github-readme-stats.vercel.app/api?username=rimijoker&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimijoker&layout=compact&theme=dark)](https://github.com/rimijoker)
