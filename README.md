@@ -1,7 +1,7 @@
 # I am Anshuman Singh 👋
 ### I'm currently
 
-- 🔭 I’m currently working with [OpenMined](https://www.openmined.org/) on [PyGird](https://github.com/OpenMined/PySyft/tree/master/syft/grid)
+- 🔭 I’m currently working with [OpenMined](https://www.openmined.org/)
 
 - 👯 I’m looking to collaborate on [Kaggle](https://www.kaggle.com/rimijoker)
 
