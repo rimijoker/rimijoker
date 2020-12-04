@@ -13,7 +13,7 @@
 
  ### Stuff I'm really good at 
 
-Python | Machine Learning | PyTorch | Javascript | React
+**Python | Machine Learning | PyTorch | Tensorflow | Javascript | ReactJS | ExpressJS | QraphQL | MongoDB**
 
 ---
 
