@@ -1,6 +1,6 @@
 # I am Anshuman Singh 👋
 
-Mentor & Google Summer of Code 2020 with @OpenMined 
+#### Mentor & Google Summer of Code 2020 with @OpenMined 
 
 ### I'm currently
 
@@ -20,7 +20,7 @@ Mentor & Google Summer of Code 2020 with @OpenMined
 
 ---
 
-<h4 align='center'>📫 Reach me on</h4>
+<h4>📫 Reach me on</h4>
 
 <p align='center'>
 
