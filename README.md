@@ -1,20 +1,17 @@
 # I am Anshuman Singh 👋
 
-#### Mentor & Google Summer of Code 2020 with @OpenMined 
+## Google Summer of Code 2020 & Technical Mentor [@OpenMined](https://www.openmined.org/)
 
-### I'm currently
 
-- 🔭 I’m currently working with [OpenMined](https://www.openmined.org/)
+![Alt Text](https://i.pinimg.com/originals/d9/23/41/d923418d1fd5a4ca07d42cb381835aa8.gif)
 
-- 👯 I’m looking to collaborate on [Kaggle](https://www.kaggle.com/rimijoker)
+- ### 💬 Ask me about Machine Learning and Secure & Private AI
 
-- 💬 Ask me about Machine Learning and Secure & Private AI
+- ### 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iamanshumansingh/)
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iamanshumansingh/)
+- ### ⚡ Fun fact: rimi is actually the name of my sister😂
 
-- ⚡ Fun fact: rimi is actually the name of my sister😂
-
- ### Stuff I'm really good at 
+ ## Stuff I'm really good at 
 
 **Python | Machine Learning | PyTorch | Tensorflow | Javascript | ReactJS | ExpressJS | QraphQL | MongoDB**
 
