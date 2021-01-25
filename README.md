@@ -21,6 +21,6 @@
 
 <p align='center'>
 
-<a href = https://www.linkedin.com/in/iamanshumansingh><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/rimijoker><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a> • <a href = https://twitter.com/rimijoker><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a></p>
+<a href = https://www.linkedin.com/in/iamanshumansingh><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://twitter.com/rimijoker><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a></p>
 
 ![](https://komarev.com/ghpvc/?username=rimijoker&style=flat-square)
