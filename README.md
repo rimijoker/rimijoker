@@ -1,9 +1,9 @@
-# Hello everyone, I am Anshuman Singh 👋
+# Hey there, I am Anshuman Singh 👋
 
 ## Google Summer of Code 2020 & Technical Mentor [@OpenMined](https://www.openmined.org/)
 
 
-![Alt Text](https://i.pinimg.com/originals/d9/23/41/d923418d1fd5a4ca07d42cb381835aa8.gif)
+<!-- ![Alt Text](https://i.pinimg.com/originals/d9/23/41/d923418d1fd5a4ca07d42cb381835aa8.gif) -->
 
 - ### 💬 Ask me about Machine Learning and Secure & Private AI
 
