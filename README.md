@@ -11,7 +11,7 @@
 
 - ### ⚡ Fun fact: rimi is actually the name of my sister😂
 
- ## Stuff I'm really good at 
+ ## I'm good at 
 
 **Python | Machine Learning | PyTorch | Tensorflow | Javascript | ReactJS | ExpressJS | QraphQL | MongoDB**
 
