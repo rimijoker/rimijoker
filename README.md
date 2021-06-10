@@ -9,7 +9,7 @@
 
 - ### 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iamanshumansingh/)
 
-- ### ⚡ Fun fact: rimi is actually the name of my sister😂
+- ### ⚡ Fun fact: Rimi is actually the name of my sister 😂
 
  ## I'm good at 
 
