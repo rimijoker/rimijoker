@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="230">
 
 I am a final year student at SRM IST, Chennai, pursuing my Bachelors in Computer Science.<br>
-And also an optimisitic, curious and well-focused developer. :sparkles: <br>
+And also an optimistic, curious and well-focused developer. :sparkles: <br>
 Fun fact, Rimi is actually the name of my sister :joy: <br>
 
 - Former Google Summer of Code 2021 Software Developer [@Deeppavlov.ai](https://deeppavlov.ai/interns)
