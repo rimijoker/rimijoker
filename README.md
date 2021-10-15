@@ -1,4 +1,4 @@
-<h2> Hi, I'm Anshuman! <img src="https://media.giphy.com/media/ky3indTm3h2YKKOApD/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Anshuman! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="230">
 
