@@ -1,26 +1,34 @@
-# Hey there, I am Anshuman Singh 👋
+<h2> Hi, I'm Anshuman! <img src="https://media.giphy.com/media/ky3indTm3h2YKKOApD/giphy.gif" width="50"></h2>
 
-## Google Summer of Code 2020 & Technical Mentor [@OpenMined](https://www.openmined.org/)
+<img align='right' src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="230">
+
+I am a final year student at SRM IST, Chennai, pursuing my Bachelors in Computer Science.<br>
+And also an optimisitic, curious and well-focused developer. :sparkles: <br>
+Fun fact, Rimi is actually the name of my sister :joy: <br>
+
+- Former Google Summer of Code 2021 Software Developer [@Deeppavlov.ai](https://deeppavlov.ai/interns)
+- Former Google Summer of Code 2020 Software Developer [@OpenMined](https://www.openmined.org/)
+- Former Technical Mentor [@OpenMined](https://www.openmined.org/).
+- Machine Learning Researcher [@NextTechLab](https://github.com/NextTechLab). :man_technologist: <br>
+
+Besides coding, I like photography :camera: and sleeping :sleeping:
+
+- :man_technologist: Code: Python, C++, Java, JavaScript, SQL, Node.js, Express.js, GraphQL, React.js, PyTorch, Scikit-learn, Pandas 
+- :cloud: Technologies: Unix/Linux, Git, Docker, Terraform, Google Cloud Platform, VScode
+
+Reach me out on 
+
+<a href="https://twitter.com/rimijoker">
+  <img align="left" alt="Anshuman's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/iamanshumansingh/">
+  <img align="left" alt="Anshuman's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+</a>
+
+<a href="mailto:anshumansinghlinkedin@gmail.com">
+  <img align="left" alt="Anshuman's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
+</a>
 
 
-<!-- ![Alt Text](https://i.pinimg.com/originals/d9/23/41/d923418d1fd5a4ca07d42cb381835aa8.gif) -->
 
-- ### 💬 Ask me about Machine Learning and Secure & Private AI
-
-- ### 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iamanshumansingh/)
-
-- ### ⚡ Fun fact: Rimi is actually the name of my sister 😂
-
- ## I'm good at 
-
-**Python | Machine Learning | PyTorch | Tensorflow | Javascript | ReactJS | ExpressJS | QraphQL | MongoDB**
-
----
-
-<h4>📫 Reach me on</h4>
-
-<p align='center'>
-
-<a href = https://www.linkedin.com/in/iamanshumansingh><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://twitter.com/rimijoker><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a></p>
-
-![](https://komarev.com/ghpvc/?username=rimijoker&style=flat-square)
