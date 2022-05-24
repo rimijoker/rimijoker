@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Anshuman! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="230"> -->
 
 I am a final year student at SRM IST, Chennai, pursuing my Bachelors in Computer Science.<br>
 And also an optimistic, curious and well-focused developer. :sparkles: <br>
