@@ -1,7 +1,5 @@
 <h2> Hi there, I'm Anshuman! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="230">
-
 I am a final year student at SRM IST, Chennai, pursuing my Bachelors in Computer Science.<br>
 And also an optimistic, curious and well-focused developer. :sparkles: <br>
 Fun fact, Rimi is actually the name of my sister :joy: <br>
@@ -29,6 +27,3 @@ Reach me out on
 <a href="mailto:anshumansinghlinkedin@gmail.com">
   <img align="left" alt="Anshuman's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
 </a>
-
-
-
